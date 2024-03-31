@@ -24,9 +24,9 @@ The IPL Winning Percentage Predictor is designed to analyze past IPL match data 
 ## Dataset
 
 The Dataset we used is of all the matches and all the events happen in all the deliveries happen from 2008-2019
-It is easily available at kagle.
+It is easily available at Kaggle.
 
-We preprocess the data so much and made our dataset from
+I preprocessed the data and made the dataset from
 ![image](https://github.com/modychief/IPl_Match_percent_Predictor/assets/112490642/23853fb9-f6c6-4cde-97e6-d0111c8ef22f)
 ![image](https://github.com/modychief/IPl_Match_percent_Predictor/assets/112490642/62fcd3db-60ea-4bed-ad9e-a9d2956b23f1)
 
@@ -36,7 +36,7 @@ to this
 
 ## Model Training
 
-The IPL Winning Percentage Predictor uses machine learning algorithms called Logistic Regression for prediction, you can also use Ensemble Learning But it overfittes the data, so use wisely.
+The IPL Winning Percentage Predictor uses machine learning algorithms called Logistic Regression for prediction, you can also use Ensemble Learning But it overfits the data, so use carefully.
 
 
 
@@ -44,7 +44,7 @@ The IPL Winning Percentage Predictor uses machine learning algorithms called Log
 
 Accuracy for the Logistic regression is ![image](https://github.com/modychief/IPl_Match_percent_Predictor/assets/112490642/48346414-c79b-4845-8923-8a4bcdbb2f0e)
 
-and we compare a match scenario over by over and it comes like that.
+and match scenario is covered over by over and it comes like so -
 ![image](https://github.com/modychief/IPl_Match_percent_Predictor/assets/112490642/76031305-73e7-401e-b6c3-4b30d5855371)
 
 Graph
@@ -53,6 +53,5 @@ Graph
 
 
 ## Front end
-We made a front end for this model to host it.
-We made it using streamlit and it looks like that.
+I made a front end for this model to host it using streamlit and it looks like so - 
 ![WhatsApp Image 2023-05-29 at 20 45 33](https://github.com/modychief/IPl_Match_percent_Predictor/assets/112490642/ce824f10-257e-4954-a047-544bb5459622)
